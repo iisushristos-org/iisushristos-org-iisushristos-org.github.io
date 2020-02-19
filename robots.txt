@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /share/
+Sitemap: http://iisushristos.org/sitemap.xml
